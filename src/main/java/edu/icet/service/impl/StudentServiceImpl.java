@@ -21,6 +21,8 @@ public class StudentServiceImpl implements StudentService {
         studentList.add(new Student(1,"Malinga","Kegalle"));
         studentList.add(new Student(2,"Sadeepa","Mahawa"));
         studentList.add(new Student(3,"Chathusha","Galle"));
+        studentList.add(new Student(4,"Nipun","Alawwa"));
+
         return studentList;
     }
 
